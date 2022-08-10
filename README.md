@@ -24,19 +24,14 @@ Para rodar esse programa você precisa de um compilador C.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/Vetor-Dinamico.git
+$ git clone git@github.com:vitori4th/Vetor-Dinamico.git
 
 $ cd Vetor-Dinamico
 ```
 
 ### Rodando
 
-Com o compilador instalado, você pode rodar o programa:
-
-```
-Pressionando f11, para salvar e compilar o código.
-
-```
+Com o compilador instalado, você pode rodar o programa.
 
 ## Feito com
 
